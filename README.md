@@ -3,8 +3,13 @@
 This guide will walk you through the steps to install Neovim, a powerful text editor and Vim-based alternative.
 
 ## Prerequistes (for Ubuntu)
+- Update apt
+```sudo apt update```
+
 - Install Homebrew
+
 ```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+
 and install commands that is recommended by after the installation process.
 ```
 (echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/$USER/.profile
