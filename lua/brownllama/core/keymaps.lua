@@ -14,6 +14,7 @@ keymap.set("n", "<leader>nh", ":nohl<CR>")
 keymap.set("n", "x", '"_x')
 keymap.set("n", "daw", '"_daw')
 keymap.set("n", "dd", '"_dd')
+keymap.set("n", "dw", '"_dw')
 
 -- increment/decrement numbers
 keymap.set("n", "<leader>+", "<C-a>") -- increment

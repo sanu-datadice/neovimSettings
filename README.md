@@ -1,21 +1,29 @@
-# ldkfasd
+# Neovim Settings
 
-fsk fa
-sdfjs
-s
-si 
+This guide will walk you through the steps to install Neovim, a powerful text editor and Vim-based alternative.
 
-how are you doing?
+## Prerequistes (for Ubuntu)
+- Install Homebrew
+```/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"```
+and install commands that is recommended by after the installation process.
+```
+(echo; echo 'eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"') >> /home/sanu_maharjan/.profile
+eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+sudo apt-get install build-essential
+brew install gcc
+```
 
-same
+- Install zsh
+```sudo apt install zsh```
 
+- Install ohmyzsh
+```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
-dlfia laskd
-sdlfkjaldsk lskdjf isdfn asldfias lsdfi slkasj  asdlsaldkfj  asd
+- Change the shell from bash to ohmyzsh
+!find the command for it!
 
-sdlfkjasd foasd 
+- Install Neovim
+```brew install neovim```
 
-sfsf
-dfee
-sdfadf asdf asdf 
-dda:f
+- 
+
