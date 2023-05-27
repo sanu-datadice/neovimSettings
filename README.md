@@ -4,6 +4,7 @@ This guide will walk you through the steps to install Neovim, a powerful text ed
 
 ## Prerequistes (for Ubuntu)
 - Update apt
+
 ```sudo apt update```
 
 - Install Homebrew
