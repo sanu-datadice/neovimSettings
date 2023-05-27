@@ -19,16 +19,22 @@ sudo apt-get install build-essential
 brew install gcc
 ```
 
+## Optionals (zsh and ohmyzsh)
 - Install zsh
-```sudo apt install zsh```
+
+```brew install zsh```
 
 - Install ohmyzsh
+-
 ```sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"```
 
 - Change the shell from bash to ohmyzsh
 !find the command for it!
 
+--------------------------------
+
 - Install Neovim
+
 ```brew install neovim```
 
 - 
